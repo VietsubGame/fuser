@@ -1,0 +1,5 @@
+00. Chuẩn bị sẵn video cá nhân hoá (nên là loại video với tỉ lệ vuông 1:1 để tránh bị méo hình khi được đưa vào game).
+01. Truy cập vào đường dẫn Fuser\Fuser\Content\Movies\VideoScreens
+02. Thay đổi tên của các video gốc thành một tên khác (ví dụ: thêm số 1 ở cuối tên)
+03. Sao chép và thay đổi tên của các video cá nhân hoá thành tên của video gốc.
+04. Truy cập vào game và chọn đóng tên của tập tin trên máy chiếu.
